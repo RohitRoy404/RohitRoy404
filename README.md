@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit Roy
 
-<!--
-**RohitRoy404/RohitRoy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year Computer Science student at the Institute of Engineering and Management.  
+💻 Passionate about Web Development, Backend Systems, and Open Source.  
+🛠️ Tech Stack:  
+- Languages: C++, Java, HTML, CSS, JavaScript  
+- Tools: Git, GitHub, VS Code, Postman  
+- Learning: React, Node.js, MongoDB  
 
-Here are some ideas to get you started:
+🚀 Recent Projects:
+- 🧵 Multithreaded Web Server (Concurrency & performance-focused)
+- 🌐 Responsive UI Portal (Frontend using HTML/CSS/JS with Bootstrap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Always improving my Data Structures & Algorithms  
+📫 Reach me at: blusterdino@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/rohitroy404)
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+
+
+
+
+
+
+
+
+.Initial commit of GitHub profile README.
